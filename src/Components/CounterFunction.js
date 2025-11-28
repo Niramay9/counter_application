@@ -6,7 +6,7 @@ function CounterFunction(){
         setNum(num + 1)
     }
     function Decrement(){
-        {num > 0 && setNum(num - 1)}
+        num > 0 && setNum(num - 1)
     }
     return(
         <div
@@ -29,5 +29,4 @@ function CounterFunction(){
         </div>
     )
 }
-
 export default CounterFunction;
