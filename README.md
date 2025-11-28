@@ -1,3 +1,5 @@
+#project deploy link- https://69295590505bd985aaf0f52c--counter-app-react-2.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
